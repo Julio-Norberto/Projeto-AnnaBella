@@ -1,0 +1,39 @@
+#fundo {
+    background-image: url(imagens/fundo.png);
+}
+
+#menu {
+    color: dimgrey;
+    background: rgb(192, 192, 156);
+    width: 65.8%;
+    padding: 30px;
+    font-size: 30px;
+    word-spacing: 8px;
+}
+
+#divcontato {
+    background-color: rgb(224, 224, 210);
+    width: 69%;
+    padding-top: 12px;
+    font-size: 16px;
+    color: rgb(73, 73, 6);
+}
+
+.textos{ 
+    font-size: 18px;
+    color: black;
+    margin-left: 8px;
+}
+
+.img1 {
+    border: solid 7px rgb(192, 192, 156);
+    margin-left: 8px;
+}
+
+h2 {
+    margin-left: 8px;
+}
+
+.capa {
+    width: 1300px;
+}
