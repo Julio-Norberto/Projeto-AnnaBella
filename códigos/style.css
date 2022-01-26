@@ -25,7 +25,7 @@
     margin-left: 8px;
 }
 
-.img1 {
+.imgs {
     border: solid 7px rgb(192, 192, 156);
     margin-left: 8px;
 }
@@ -35,5 +35,27 @@ h2 {
 }
 
 .capa {
-    width: 1300px;
+    width: 1305px;
+}
+
+.copy {
+    font-weight: bold;
+    margin-left: 550px;
+    font-size: 18px;
+}
+
+.negrito {
+    font: black;
+    font-weight: bold;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cont {
+    color: black;
+    padding: 2px; 
 }
